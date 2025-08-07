@@ -19,8 +19,8 @@ ShoppingBench is a novel end-to-end shopping benchmark designed to encompass inc
 
 ## Dataset
 
-The ShoppingBench dataset includes:
+❕❕❕The code and datasets will be released after completing the company’s sensitive data leakage review.
 
 ## Paper
 
-For more details about ShoppingBench, please refer to our paper:
+For more details about ShoppingBench, please refer to our paper: https://arxiv.org/pdf/2508.04266
